@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+"http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+<bean id="test" class="Spring_Maven_Demo.Spring_Maven_Demo.TestSpring">
+<property name="id" value="1215"></property>
+<property name="name" value="reddy"></property>
+</bean> 
+
+</beans>
